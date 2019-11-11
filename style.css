@@ -1,0 +1,48 @@
+* {
+  font-family: 'Questrial', sans-serif;
+  background-image: url('https://i.ytimg.com/vi/4mHW3eGF3Mw/maxresdefault.jpg');
+  padding: 5vmin;
+
+}
+
+body {
+  background-image: url('https://i.ytimg.com/vi/4mHW3eGF3Mw/maxresdefault.jpg');
+  background-repeat: no-repeat;
+  margin: 5vmin;
+}
+
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 13vmin;
+  color: #fff;
+  font-weight: bolder;
+  text-shadow: 3px 3px #E1F2BB;
+}
+
+h2 {
+  text-align: center;
+  font-size: 7vmin;
+  color: #fff;
+  font-weight: bolder;
+  margin: 0;
+}
+
+#outputParagraph {
+  color: #fff;
+  font-size: 4vmin;
+  margin: 0;
+  text-align: justify;
+  text-shadow: 2px 1px #D966BA;
+}
+
+#contentGrid {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  background-color: #261724;
+  font-size: 5vmin;
+  color: #fff;
+  font-weight: bolder;
+  border-style: outset;
+}
